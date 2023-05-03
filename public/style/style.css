@@ -1,0 +1,33 @@
+.container {
+    height: 800px;
+    width: 600px;
+    border: 1px solid black;
+    font-size: 20px;
+    background-color: aquamarine;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.title {
+    text-decoration: underline;
+}
+.title:hover {
+    cursor: pointer;
+}
+.text {
+    color: blue;
+    display: none;
+}
+
+.cont2 {
+    position: absolute;
+    left: 700px;
+    top: 0px;
+}
+.input {
+    width: 200px;
+}
+.textarea {
+    width: 500px;
+    height: 200px;
+    background-color:aqua;
+}
